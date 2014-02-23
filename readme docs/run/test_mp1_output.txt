@@ -1,0 +1,7 @@
+====================================================================================================
+Display AllContracts toString:
+====================================================================================================
+Displaying contracts and transaction data in tabular format:
+inside displayContractsInTabularFormat===>
+
+inside displayTransactionsInTabularFormat===>

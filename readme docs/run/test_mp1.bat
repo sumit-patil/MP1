@@ -1,0 +1,1 @@
+java -jar MP1.jar > test_mp1_output.txt
